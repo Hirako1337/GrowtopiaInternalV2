@@ -1,12 +1,12 @@
 # gtInternal
 
 ## Features
-<br />* [+] Added imgui with dxd9 hook
+* [+] Added imgui with dxd9 hook
 <br />* [+]Added Console Message Hook
 <br />* [+]Added SendPacket Hook
 <br />* [+]Updated for 3.37+
 # Moreover
-<br />[+] Special Thanks to deerux playingo for he's documentation.
+[+] Special Thanks to deerux playingo for he's documentation.
 <br />[+] I'll be updating it for the new versions of growtopia.
 <br />[+] if you have any questions. just add me from discord >> Hirako#0616
 
