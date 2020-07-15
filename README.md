@@ -1,5 +1,4 @@
 # gtInternal
-Growtopia internal with ImGUI
 <br />
 Changelogs:
 <br />Added IMGUI with dxd9 hook
@@ -9,3 +8,6 @@ Changelogs:
 
 <br /><img src="https://cdn.discordapp.com/attachments/710863839503188039/732985412150100048/ezgif.com-video-to-gif.gif">
 
+<br />Special Thanks to deerux playingo for he's documentation.
+<br />I'll be updating it for the new versions of growtopia.
+<br />if you have any questions. just add me from discord >> Hirako#0616
