@@ -4,9 +4,9 @@
 
 # 1.1.0
 * Added imgui with dxd9 hook
-<br />* Added Console Message Hook
-<br />* Added SendPacket Hook
-<br />* Updated for 3.37+
+* Added Console Message Hook
+* Added SendPacket Hook
+* Updated for 3.37+
 
 ## Extra
 * Special Thanks to deerux playingo for he's documentation.
