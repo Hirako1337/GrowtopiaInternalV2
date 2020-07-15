@@ -1,6 +1,6 @@
 # gtInternal
-<br />
-# Features
+
+## Features
 <br />* [+] Added imgui with dxd9 hook
 <br />* [+]Added Console Message Hook
 <br />* [+]Added SendPacket Hook
