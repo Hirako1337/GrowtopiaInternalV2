@@ -1,4 +1,4 @@
 # gtInternal
  Growtopia internal with ImGUI
- [![Demo CountPages alpha](https://i.gyazo.com/0e6537d993cce74c38dabbd1a47906a8.mp4)](https://i.gyazo.com/0e6537d993cce74c38dabbd1a47906a8.mp4)
+<br /><img src="https://cdn.discordapp.com/attachments/710863839503188039/732985412150100048/ezgif.com-video-to-gif.gif">
 
