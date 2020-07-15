@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (hirahook.vcxproj, ImGui DirectX 9 Hook.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\ali\Desktop\Internal-master\ImGui DirectX 9 Hook\proton\variant.hpp(321,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\Internal-master\ImGui DirectX 9 Hook\proton\variant.hpp(338,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ali\Desktop\Internal-master\ImGui DirectX 9 Hook\proton\variant.hpp(354,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  ImGui DirectX 9 Hook.vcxproj -> C:\Users\ali\Desktop\Internal-master\x64\Debug\internal.dll
