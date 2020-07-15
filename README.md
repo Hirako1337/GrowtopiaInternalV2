@@ -7,6 +7,7 @@
 * Added Console Message Hook
 * Added SendPacket Hook
 * Updated for 3.37+
+* moved on detours lib from minhook lib (for some reasons)
 
 ## Extra
 * Special Thanks to deerux playingo for he's documentation.
