@@ -1,7 +1,7 @@
 # gtInternal
 Growtopia internal with ImGUI
 <br />
-Changelogs:<br />
+Changelogs:
 <br />Added IMGUI with dxd9 hook
 <br />Added Console Message Hook
 <br />Added SendPacket Hook
